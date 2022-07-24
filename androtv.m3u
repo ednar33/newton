@@ -476,6 +476,11 @@ https://v-sd.mybtv.net/live/502.m3u8?
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Latin NHK
 https://v-pi.mybtv.net/live/360.m3u8?
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Latin NHK
+https://v-ca.mybtv.net/live/140.m3u8?
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Galavision
