@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/mx/mi.tv.epg.xml"
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Videos Chistosos
