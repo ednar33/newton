@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz",https://i.mjh.nz/PlutoTV/mx.xml.gz"
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Videos Chistosos
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 
