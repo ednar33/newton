@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml"
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 
 
 #EXTINF:-1 tvg-id="MovistarAccion.es" tvg-logo="https://lo1.in/LOGO/SPAIN/M.ACCIONHD.png" group-title="Movistar",M. ACCION HD
