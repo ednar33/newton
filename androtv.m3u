@@ -1089,24 +1089,6 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TyC SPORT 
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN 1 ARG
-http://xdgo.live:8080/play/b-rw9iT5nqFcs40bMJ6Yw6La8FBfFvFbr65Lds6F5_8DpdcPLRnBbHjemDoEZgFU/ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN 2 ARG
-http://xdgo.live:8080/play/b-rw9iT5nqFcs40bMJ6Yw6La8FBfFvFbr65Lds6F5_-3QziO-FyrsQwfMPGiccl_/ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN 3 ARG
-http://xdgo.live:8080/play/b-rw9iT5nqFcs40bMJ6Yw6La8FBfFvFbr65Lds6F5_8VnTX4qhLFtJb5Wwa-QESf/ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN Premium
-http://xdgo.live:8080/play/b-rw9iT5nqFcs40bMJ6Yw6La8FBfFvFbr65Lds6F5_8xRWnLtAH-7g1EXnhyqTSn/ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TNT Sports ARG
-http://xdgo.live:8080/play/b-rw9iT5nqFcs40bMJ6Yw6La8FBfFvFbr65Lds6F5_92iLLnRU0bc6ePDWbwK7k_/ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Fox Sports ARG
-http://xdgo.live:8080/play/b-rw9iT5nqFcs40bMJ6Yw6La8FBfFvFbr65Lds6F5_9QYSjPmu1qRKNphzON6hPc/ts
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN 1 (ARG)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN 2 (ARG)
