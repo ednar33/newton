@@ -110,6 +110,10 @@ http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 
 
 
+#EXTINF:0,Antena 33
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/298
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Antena 3
 http://globalentertainmentec.xyz:8000/live/Elias2022/Elias2022/7568.m3u8
 
