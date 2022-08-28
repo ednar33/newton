@@ -992,6 +992,9 @@ https://linear-388.frequency.stream/388/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", VeVo 2
 https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Mezzo TV
+https://amg01523-mezzo-vivalditv-tcl-yurju.amagi.tv/playlist/amg01523-mezzo-vivalditv-tcl/playlist.m3u8
+
 
 
 
