@@ -1604,10 +1604,10 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=71&f=HLS&s=hkc26a
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Extra", Pasiones
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PASIONES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_session=300942667&_cdn_timestamp=1660988430&_cdn_token=329e3a47cf6e84eca4895d5d71bb191a7842bcb6
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=312387707&_cdn_timestamp=1661852677&_cdn_token=34073191aa39f125f0be6713c548b5dbab3832c9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Extra", Pasiones
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PASIONES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_session=311282131&_cdn_timestamp=1661778273&_cdn_token=753d8a7bc91f8bf3e948f0418113790e7bf4ebc2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Extra", Kanal D Drama
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/KANALD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_session=293879195&_cdn_timestamp=1660438050&_cdn_token=4206fa89c67a339b0b9b3bd428b963ddd80bff87
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Extra", Azteca Corazón
