@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://i.mjh.nz/PlutoTV/mx.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml"
+#EXTM3U 
 ESTA LISTA ES DE USO PARTICULAR. NO SE VENDE, NI TIENE UN SERVIDOR PROPIO. 
 TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO.
 ######################################################################################################################################
@@ -1007,14 +1007,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6f
 
 #EXTINF:-1 tvg-chno="959" tvg-id="Estrella News" tvg-name="Estrella News" tvg-logo="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/colorLogoPNG.png" group-title="Pluto TV", Estrella News
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=959&deviceId=60492e6d7f3f560007ab0f62&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", Pluto TV", revry LGBTQ TV
-https://linear-45.frequency.stream/45/hls/master/playlist.m3u8
-
-
-
-
-
 
 
 
