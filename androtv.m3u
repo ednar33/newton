@@ -504,7 +504,7 @@ https://estrellanews-plex.amagi.tv/playlist.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", Telesur
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", RTVE 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
