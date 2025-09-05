@@ -44,7 +44,7 @@ https://video.cdmx.gob.mx/redes/stream.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Telemax | Hermosillo
-https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/.m3u8
+https://s5.mexside.net:1936/telemax/telemax/chunklist_w578501013.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Teleplay | Mérida
 https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
