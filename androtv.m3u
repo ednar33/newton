@@ -185,6 +185,9 @@ https://live.gideo.video:443/americateve2/HD720/HD720.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Canal 57 (EU)
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Glewed TV Spanish (EU)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Canela TV
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist.m3u8
 
@@ -709,6 +712,9 @@ https://inliveserver.com:1936/10016/10016/chunklist_w1357319705.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Cosmos
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Moni TV
+https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Cinelife
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00308-magnoliapicture-cinelife-tcl/playlist.m3u8
 
@@ -741,6 +747,12 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Telenovisa 43
 https://rdn.essastream.com:3230/live/telenovisa43live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", The Big Channel
+https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Dreamworks (Portugues)
+https://cdn-5.nxplay.com.br/DREAMWORKS/tracks-v1a1/mono.m3u8
 
 
 
