@@ -742,8 +742,6 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Telenovisa 43
 https://rdn.essastream.com:3230/live/telenovisa43live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Carac1 - XXX (Frances)
-https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
 
 
 
