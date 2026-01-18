@@ -24,9 +24,6 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Canal 5
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278329.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Canal 5 Op2
-http://181.78.106.127:9000/play/ca012/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Imagen TV (-1 h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
