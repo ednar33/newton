@@ -136,8 +136,7 @@ https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Aprende+
 https://stream.aprende.gob.mx/live/hls/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Claro Sports MX
-https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+
 
 
 
@@ -314,6 +313,23 @@ https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Latin Zone (USA) 
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Claro Sports MX
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Telemundo Deportes Ahora
+https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Canela Deportes
+https://amg00658-amg00658c10-canelatv-international-7279.playouts.now.amagi.tv/playlist.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Novelas", Novelas | Pasiones Legendarias
