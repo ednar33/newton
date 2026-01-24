@@ -615,7 +615,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="24-7", Los Simpsons (Italiano)
 https://canais.fazoeli.co.za/fontes/smart/24h_simpsons.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="24-7", Los Simpsons 1
+
+***EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="24-7", Los Simpsons 1
 http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="24-7", Los Simpsons 2
+***EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="24-7", Los Simpsons 2
 http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
