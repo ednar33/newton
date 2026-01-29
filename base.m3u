@@ -231,6 +231,9 @@ https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", ITV
 https://redirector.dps.live/hls/itv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", America TV Peru
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/playlist.m3u8
 
