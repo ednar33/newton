@@ -636,10 +636,6 @@ http://stream.radiojar.com/a5qpu2en3p8uv.mp3
 http://198.7.59.28:8104/;stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", XEU La "U" VER
 https://xeu.centrocibernetico.com/xeu.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Fusion 90.1 VER
-https://sg.centrocibernetico.com/fusion
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Ya FM 102.9 VER
-https://yafm.centrocibernetico.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Maquina 97.7 VER
 https://cast3.my-control-panel.com/proxy/xhot/stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Radio Mas VER
@@ -665,8 +661,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_SC.mp3
 https://s2.mexside.net/8174/;stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Enlace Juvenil
 https://stream.zenolive.com/52hf40q405quv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Radio Cristiana
-http://162.252.85.85:7246/stream/1/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Musica Cristiana Int
 https://a10.asurahosting.com:8330/radio.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Radio Vida RTV
@@ -674,8 +668,6 @@ https://vidacomunicaciones.com:8010/stream
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Altar 24/7
 https://vidacomunicaciones.com/public/altar_7_24/playlist.pls
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 100 Hitz
-http://gr02.cdnstream.com:8290/;stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Banda Grupera 
 https://stream9.mexiserver.com:7090/stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Pop Dance
@@ -690,6 +682,3 @@ https://stream.zeno.fm/e37m779v2ehvv.mp3
 https://stream.zeno.fm/cdey4pbw2ehvv.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Regional MX
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR49_S01AAC_SC.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Virtual DJ Radio
-http://virtualdjradio.com:8000/;.mp3
-
