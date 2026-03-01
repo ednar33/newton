@@ -617,3 +617,79 @@ https://canais.fazoeli.co.za/fontes/smart/24h_simpsons.m3u8
 http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 ***EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="24-7", Los Simpsons 2
 http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Mas Latina 96.5 VER
+https://cast3.my-control-panel.com/proxy/maslatina/stream.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", La Primerisima 92.7 VER
+https://s1.reliastream.com/proxy/emalpi00/stream.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", El Patron 94.5 VER
+http://ssc.cnwks.ws:8365/;;
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Amor 91.7 VER
+http://streaming.servicioswebmx.com:8126/stream.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Trión FM 106.1 VER
+http://stream.radiojar.com/a5qpu2en3p8uv.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Mezkla FM VER
+http://198.7.59.28:8104/;stream.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", XEU La "U" VER
+https://xeu.centrocibernetico.com/xeu.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Fusion 90.1 VER
+https://sg.centrocibernetico.com/fusion
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Ya FM 102.9 VER
+https://yafm.centrocibernetico.com/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Maquina 97.7 VER
+https://cast3.my-control-panel.com/proxy/xhot/stream.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Radio Mas VER
+https://streamingcwsradio30.com/8228/stream.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Digital 96.9 VER
+https://cast3.my-control-panel.com/proxy/xhtz/stream.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Magia 93.7 VER
+https://cast3.my-control-panel.com/proxy/xekl/stream.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Sensacion 95.5 VER
+http://ssc.cnwks.ws:8322/;;.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", La Mejor 97.7 CDMX
+https://playerservices.streamtheworld.com/api/livestream-redirect/XERCFMAAC_SC.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", La Comadre CDMX
+https://playerservices.streamtheworld.com/api/livestream-redirect/XELAMAAC.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Mix 106.5 CDMX
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHDFMFMAAC_SC.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Oye 89.7 CDMX
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC_SC.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", W Radio CDMX
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_SC.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Radio Educacion 96.5 FM CDMX
+https://s2.mexside.net/8174/;stream.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Enlace Juvenil
+https://stream.zenolive.com/52hf40q405quv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Radio Cristiana
+http://162.252.85.85:7246/stream/1/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Musica Cristiana Int
+https://a10.asurahosting.com:8330/radio.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Radio Vida RTV
+https://vidacomunicaciones.com:8010/stream
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Altar 24/7
+https://vidacomunicaciones.com/public/altar_7_24/playlist.pls
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 100 Hitz
+http://gr02.cdnstream.com:8290/;stream.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Banda Grupera 
+https://stream9.mexiserver.com:7090/stream.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Pop Dance
+https://stream.zeno.fm/zw8bzfsgqm0uv.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Electro 
+https://stream.zeno.fm/6q4qw4aw2ehvv.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Salsa
+https://stream.zeno.fm/suqa16dw2ehvv.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Pop Rock
+https://stream.zeno.fm/e37m779v2ehvv.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Rock en Español
+https://stream.zeno.fm/cdey4pbw2ehvv.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Regional MX
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR49_S01AAC_SC.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Virtual DJ Radio
+http://virtualdjradio.com:8000/;.mp3
+
