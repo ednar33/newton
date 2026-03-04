@@ -665,8 +665,6 @@ https://stream.zenolive.com/52hf40q405quv
 https://a10.asurahosting.com:8330/radio.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Radio Vida RTV
 https://vidacomunicaciones.com:8010/stream
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Altar 24/7
-https://vidacomunicaciones.com/public/altar_7_24/playlist.pls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Banda Grupera 
 https://stream9.mexiserver.com:7090/stream.mp3
