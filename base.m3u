@@ -267,8 +267,11 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", TV Marti - Cuba
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Univision Network
-https://regionales.saohgdasregions.fun:9092/MTg3LjE5Mi45OS4xODM=/9_.m3u8?token=eDrY_y7-Vxru15TivmG5JA&expires=1773282150
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Telemundo East
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/TelemundoEast/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Univision East
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/UnivisionEast/index.m3u8
 
 ##https://corsproxy.io/http://origin.thetvapp.to/hls/UnivisionEast/index.m3u8
 
@@ -363,13 +366,6 @@ https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/MLBNetwork/index
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", NFL Network
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/NFLNetwork/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Telemundo Eastern
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/TelemundoEast/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Univision Eastern
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/UnivisionEast/index.m3u8
-
 
 
 
