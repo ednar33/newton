@@ -327,7 +327,10 @@ https://ventdelnord.tv:8080/mola/directe.m3u8
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", TUDN
-https://8c51.streameasthd.net/tudn_usa/tracks-v1a1/mono.m3u8
+https://cors-proxy.wangzhishi.net/https://8c51.streameasthd.net/tudn_usa/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", TUDN 2
+https://ag9wzq.fubohd.com/tudn/mono.m3u8?token=1d260b1eb29d02ddad9349577ab2e3c7cc8da28f-ea-1773373264-1773355264
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
