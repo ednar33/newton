@@ -368,6 +368,12 @@ https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/MLBNetwork/index
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", NFL Network
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/NFLNetwork/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Univision Eastern
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/UnivisionEast/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Telemundo Eastern
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/TelemundoEast/index.m3u8
+
 
 
 
