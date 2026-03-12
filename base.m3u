@@ -354,6 +354,18 @@ https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mo
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", NBA TV
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/NBATV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", CBS Sports Network
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/CBSSportsNetworkUSA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", MLB Network
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/MLBNetwork/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", NFL Network
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/NFLNetwork/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Telemundo East
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/TelemundoEast/index.m3u8
+
 
 
 
