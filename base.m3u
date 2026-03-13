@@ -8,6 +8,8 @@ TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO.
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Las Estrellas LATAM
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=421bf41e7de0f9869aa13aa34200bb75:4b3dfb3e7fb2b65f607ee4290ab74283
 https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESTRELLAS_HD)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", a+ 
