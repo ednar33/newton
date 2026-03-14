@@ -50,31 +50,31 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZg4KT2UPZxfYLjPvOi3BCv8UxFpiuDVr9eg&s" group-title="⬬ Nacionales 🇲🇽", Canal 14 | CDMX
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Mexiquense | EDO MEX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" group-title="⬬ Nacionales 🇲🇽", Mexiquense | EDO MEX
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Capital 21 | CDMX
+#EXTINF:-1 tvg-logo="https://www.capital21.cdmx.gob.mx/favicon1.png" group-title="⬬ Nacionales 🇲🇽", Capital 21 | CDMX
 https://video.cdmx.gob.mx/redes/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Multimedios 6
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/2/multimedios-canal-seis-logo-png_seeklogo-517015.png" group-title="⬬ Nacionales 🇲🇽", Multimedios 6
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Telemax | Hermosillo
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hM1uXjU4oXRKo1xfBhLLqFuTLNzvDhHw4XUvMOnv7eiR0Px8JFqzJjXQZdptxGcGsA" group-title="⬬ Nacionales 🇲🇽", Telemax | Hermosillo
 https://s5.mexside.net:1936/telemax/telemax/chunklist_w578501013.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Teleplay | Mérida
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjL9XhJ7E7K88u6Ckk5K3bHJ-K99jqbqVUGA&s" group-title="⬬ Nacionales 🇲🇽", Teleplay | Mérida
 https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", TVP | Culiacan
+#EXTINF:-1 tvg-logo="https://canacintramazatlan.com.mx/wp-content/uploads/2023/05/1.png" group-title="⬬ Nacionales 🇲🇽", TVP | Culiacan
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", TVP | Mazatlan
+#EXTINF:-1 tvg-logo="https://canacintramazatlan.com.mx/wp-content/uploads/2023/05/1.png" group-title="⬬ Nacionales 🇲🇽", TVP | Mazatlan
 https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", TVP | Mochis
+#EXTINF:-1 tvg-logo="https://canacintramazatlan.com.mx/wp-content/uploads/2023/05/1.png" group-title="⬬ Nacionales 🇲🇽", TVP | Mochis
 https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", TVP | Obregón
+#EXTINF:-1 tvg-logo="https://canacintramazatlan.com.mx/wp-content/uploads/2023/05/1.png" group-title="⬬ Nacionales 🇲🇽", TVP | Obregón
 https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", TV Mas | Veracruz
