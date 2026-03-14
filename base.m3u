@@ -77,22 +77,22 @@ https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIZ6cd8Ky23mT0kfD6cNVVpD8kpUerQZGd4A&s" group-title="⬬ Nacionales 🇲🇽", TVP | Obregón
 https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", TV Mas | Veracruz
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/dBkm1nT8gvm4IWCYW4HLo0aOFiLPhzP0knDmlU-azC1UbUkZjvaplCT_GYAiCwlAWyqM0s-eCCzntX6jcHbiu7DEow" group-title="⬬ Nacionales 🇲🇽", TV Mas | Veracruz
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1862368642.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", 4.1 | Guanajuato
+#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/noticias-01.png" group-title="⬬ Nacionales 🇲🇽", 4.1 | Guanajuato
 https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", 4.2 | Guanajuato
+#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/deportes-02.png" group-title="⬬ Nacionales 🇲🇽", 4.2 | Guanajuato
 https://5f1af61612fb5.streamlock.net:443/tv42/videotv42/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", TV UNAM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="⬬ Nacionales 🇲🇽", TV UNAM
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w869437634_DVR.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", TV Puebla
 https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/chunklist_w703263260.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Ultra TV | Puebla
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7f/a4/03/7fa40309-79e2-a096-9f4d-dbadc95a8d1b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" group-title="⬬ Nacionales 🇲🇽", Ultra TV | Puebla
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Az Mundo
