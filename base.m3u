@@ -678,8 +678,6 @@ http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Mas Latina 96.5 VER
 https://cast3.my-control-panel.com/proxy/maslatina/stream.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", La Primerisima 92.7 VER
-https://s1.reliastream.com/proxy/emalpi00/stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", El Patron 94.5 VER
 http://ssc.cnwks.ws:8365/;;.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Amor 91.7 VER
