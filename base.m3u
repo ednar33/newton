@@ -15,16 +15,16 @@ https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(E
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_a%2B_%28canal%29.svg" group-title="⬬ Nacionales 🇲🇽", a+ 
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Azteca_Internacional#/media/Archivo:Azteca_Internacional_logo_2023.png" group-title="⬬ Nacionales 🇲🇽", Azteca Internacional
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?
 
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Azteca_Uno#/media/Archivo:AztecaUno2023.png" group-title="⬬ Nacionales 🇲🇽", Azteca Uno Op1
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/TV_Azteca#/media/Archivo:NuevoLogotipoTVAzteca.png" group-title="⬬ Nacionales 🇲🇽", Azteca Uno Op1
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Azteca_Uno#/media/Archivo:AztecaUno2023.png" group-title="⬬ Nacionales 🇲🇽", Azteca Uno -1h 
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/TV_Azteca#/media/Archivo:NuevoLogotipoTVAzteca.png" group-title="⬬ Nacionales 🇲🇽", Azteca Uno -1h 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Azteca_7#/media/Archivo:Logo_de_Azteca_7_2024_(cropped).png" group-title="⬬ Nacionales 🇲🇽", Azteca 7 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Azteca72024.png" group-title="⬬ Nacionales 🇲🇽", Azteca 7 
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Canal_5_(M%C3%A9xico)#/media/Archivo:Canal_5_Mexico_logo_2014.svg" group-title="⬬ Nacionales 🇲🇽", Canal 5
