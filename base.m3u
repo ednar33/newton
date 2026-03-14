@@ -34,7 +34,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c630b9d02c9eee970976e33e9d98ca16:6517788f3f04875bc83f34710b1d87e4
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/ffwkol9rr3/out/v1/c5f712f414b64736ba9cb11e9d3cd554/cenc-sd.mpd
 
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Canal_9_(M%C3%A9xico)#/media/Archivo:Nueve_(2018_logo).png" group-title="⬬ Nacionales 🇲🇽", Nu9ve
+#EXTINF:-1 tvg-logo="https://www.tracered.com/wp-content/uploads/2024/12/logo-nueve.webp" group-title="⬬ Nacionales 🇲🇽", Nu9ve
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
