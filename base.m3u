@@ -122,10 +122,10 @@ https://s5.mexside.net:1936/canal28/canal28/chunklist_w1265115829.m3u8
 #EXTINF:-1 tvg-logo="https://sipseplay.com/tvcun/wp-content/uploads/2023/09/cropped-logo-512x512-2-1.png" group-title="⬬ Nacionales 🇲🇽", SIPSE TV 8.1 | Mérida
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Canal 10 | Durango
+#EXTINF:-1 tvg-logo="https://canal10.com.mx/sitio/wp-content/uploads/2019/06/cropped-CanalSinFondo-1.png" group-title="⬬ Nacionales 🇲🇽", Canal 10 | Durango
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", RCG TV  | Coahuila
+#EXTINF:-1 tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/10/RCG-Television-en-vivo.png" group-title="⬬ Nacionales 🇲🇽", RCG TV  | Coahuila
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", TV UJAT | Tabasco
