@@ -101,25 +101,25 @@ https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/b/b7/Azcoraz%C3%B3n.png/revision/latest?cb=20200402024001&path-prefix=es" group-title="⬬ Nacionales 🇲🇽", Az Corazon
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/TV_Azteca_Clic_2019.png/revision/latest?cb=20191211180120&path-prefix=es" group-title="⬬ Nacionales 🇲🇽", Az Clic
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/TV_Azteca_Clic_2023_Official.svg/revision/latest/scale-to-width-down/230?cb=20230630203519" group-title="⬬ Nacionales 🇲🇽", Az Clic
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Jalisco TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Jalisco-TV_logotype.png/1280px-Jalisco-TV_logotype.png" group-title="⬬ Nacionales 🇲🇽", Jalisco TV
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", VA+
+#EXTINF:-1 tvg-logo="https://redtal.tv/storage/4763/valogo4.png" group-title="⬬ Nacionales 🇲🇽", VA+
 https://60417ddeaf0d9.streamlock.net:443/telemetrika3/telemetrika3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Justicia TV | SCJN
+#EXTINF:-1 tvg-logo="https://www.oaj.gob.mx/salaprensa/img/identificadores/justiciaTV.png" group-title="⬬ Nacionales 🇲🇽", Justicia TV | SCJN
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Canal 12 | Coahuila
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xsPsOHLesVzs1Xk6wiq6cbjQ_XN8pf7IED71oHPXxHrpJ8twxUV_NJ4E48BsYW5JObWN9THGkYzuA9M1I6etkQ" group-title="⬬ Nacionales 🇲🇽", Canal 12 | Coahuila
 https://servilive.com:3263/live/channel12live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Canal 28 | Nuevo Leon
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/7e/c9/a97ec92f-e0f6-a3d5-099e-d1d5e0baddd7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg" group-title="⬬ Nacionales 🇲🇽", Canal 28 | Nuevo Leon
 https://s5.mexside.net:1936/canal28/canal28/chunklist_w1265115829.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", SIPSE TV 8.1 | Mérida
+#EXTINF:-1 tvg-logo="https://sipseplay.com/tvcun/wp-content/uploads/2023/09/cropped-logo-512x512-2-1.png" group-title="⬬ Nacionales 🇲🇽", SIPSE TV 8.1 | Mérida
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Canal 10 | Durango
