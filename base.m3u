@@ -65,10 +65,10 @@ https://s5.mexside.net:1936/telemax/telemax/chunklist_w578501013.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjL9XhJ7E7K88u6Ckk5K3bHJ-K99jqbqVUGA&s" group-title="⬬ Nacionales 🇲🇽", Teleplay | Mérida
 https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canacintramazatlan.com.mx/wp-content/uploads/2023/05/1.png" group-title="⬬ Nacionales 🇲🇽", TVP | Culiacan
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIZ6cd8Ky23mT0kfD6cNVVpD8kpUerQZGd4A&s" group-title="⬬ Nacionales 🇲🇽", TVP | Culiacan
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://canacintramazatlan.com.mx/wp-content/uploads/2023/05/1.png" group-title="⬬ Nacionales 🇲🇽", TVP | Mazatlan
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIZ6cd8Ky23mT0kfD6cNVVpD8kpUerQZGd4A&s" group-title="⬬ Nacionales 🇲🇽", TVP | Mazatlan
 https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIZ6cd8Ky23mT0kfD6cNVVpD8kpUerQZGd4A&s" group-title="⬬ Nacionales 🇲🇽", TVP | Mochis
@@ -92,16 +92,16 @@ https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w869437634_DVR
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", TV Puebla
 https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/chunklist_w703263260.m3u8
 
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7f/a4/03/7fa40309-79e2-a096-9f4d-dbadc95a8d1b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" group-title="⬬ Nacionales 🇲🇽", Ultra TV | Puebla
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/625/ultra-radio-puebla.9c6d37ae.png" group-title="⬬ Nacionales 🇲🇽", Ultra TV | Puebla
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Az Mundo
+#EXTINF:-1 tvg-logo="https://americancable.ec/wp-content/uploads/2021/09/34-logo-azmundo.png" group-title="⬬ Nacionales 🇲🇽", Az Mundo
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Az Corazon
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tv-azteca-corazon2514.logowik.com.webp" group-title="⬬ Nacionales 🇲🇽", Az Corazon
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Az Clic
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/TV_Azteca_Clic_2019.png/revision/latest?cb=20191211180120&path-prefix=es" group-title="⬬ Nacionales 🇲🇽", Az Clic
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="⬬ Nacionales 🇲🇽", Jalisco TV
