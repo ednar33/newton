@@ -702,6 +702,10 @@ https://cast3.my-control-panel.com/proxy/xhtz/stream.mp3
 https://cast3.my-control-panel.com/proxy/xekl/stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Sensacion 95.5 VER
 http://ssc.cnwks.ws:8322/;;.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Vox FM 102.1 VER
+https://backend.anii.io/api/a/hd.digitalradio.mx:5906/;stream/1.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", XEFU 103.3 VER
+https://servidor27.brlogic.com:7008/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", SimiRadio FM 
 https://c25.radioboss.fm:8207/stream
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", La Mejor 97.7 CDMX
