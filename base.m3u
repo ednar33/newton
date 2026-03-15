@@ -690,6 +690,8 @@ http://198.7.59.28:8104/;stream.mp3
 https://xeu.centrocibernetico.com/xeu.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Maquina 97.7 VER
 https://cast3.my-control-panel.com/proxy/xhot/stream.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", La Mejor VER
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHVEFM_SC.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Radio Mas VER
 https://streamingcwsradio30.com/8228/stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Digital 96.9 VER
