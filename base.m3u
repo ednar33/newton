@@ -715,6 +715,8 @@ https://servidor33.brlogic.com:7014/live
 https://mdstrm.com/audio/66a01c0328071626dc3e6971/icecast.audio
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", SimiRadio FM 
 https://c25.radioboss.fm:8207/stream
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Amor 95.3 CDMX
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHSHFMAAC_SC.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", La Mejor 97.7 CDMX
 https://playerservices.streamtheworld.com/api/livestream-redirect/XERCFMAAC_SC.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", La Comadre CDMX
