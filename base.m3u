@@ -667,14 +667,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="24-7", Los Simpsons (Italiano)
 https://canais.fazoeli.co.za/fontes/smart/24h_simpsons.m3u8
 
-***EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="24-7", Los Simpsons 1
-http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
-***EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="24-7", Los Simpsons 2
-http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Mas Latina 96.5 VER
 https://cast3.my-control-panel.com/proxy/maslatina/stream.mp3
@@ -735,7 +727,8 @@ https://stream.zenolive.com/52hf40q405quv
 https://a10.asurahosting.com:8330/radio.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Radio Vida RTV
 https://vidacomunicaciones.com:8010/stream
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Top 2000´s
+https://2000.streeemer.com/listen/2000s/radio.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Banda Grupera 
 https://stream9.mexiserver.com:7090/stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Cumbia Mix
