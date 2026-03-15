@@ -689,6 +689,7 @@ https://streaming.servicioswebmx.com/8146/stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", La Ke Buena 93.9 VER
 https://streaming.servicioswebmx.com/8060/;.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Mezkla FM VER
+https://statics-v3.streema.com/static/audios/sample.ea78c3d52389.mp3
 http://198.7.59.28:8104/;stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", XEU La "U" VER
 https://xeu.centrocibernetico.com/xeu.mp3
