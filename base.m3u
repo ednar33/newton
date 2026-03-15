@@ -738,6 +738,10 @@ https://vidacomunicaciones.com:8010/stream
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Banda Grupera 
 https://stream9.mexiserver.com:7090/stream.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Cumbia Mix
+https://stream.zeno.fm/6ww6y8v8dy3uv.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Cumbia Sonidera
+https://stream.zeno.fm/p5sbzmb7miduv.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Pop Dance
 https://stream.zeno.fm/zw8bzfsgqm0uv.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Electro 
