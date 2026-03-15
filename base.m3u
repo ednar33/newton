@@ -708,6 +708,8 @@ https://backend.anii.io/api/a/hd.digitalradio.mx:5906/;stream/1.mp3
 https://servidor27.brlogic.com:7008/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Radio Romance (XHQO) VER
 https://servidor33.brlogic.com:7014/live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Máxima 93.1 VER
+https://mdstrm.com/audio/66a01c0328071626dc3e6971/icecast.audio
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", SimiRadio FM 
 https://c25.radioboss.fm:8207/stream
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", La Mejor 97.7 CDMX
