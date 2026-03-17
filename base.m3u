@@ -705,7 +705,7 @@ http://sss.cnwks.ws:8322/stream.mp3
 https://stream.zeno.fm/eyh5yzn3f78uv.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Vox FM 102.1 VER
 https://backend.anii.io/api/a/hd.digitalradio.mx:5906/;stream/1.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Radio Hits 92.3 102.1 VER
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Radio Hits 92.3 VER
 https://strcdn.klm99.com:8074/stream/1/;.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Globo 102.7 VER
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPRFMAAC_SC.mp3
