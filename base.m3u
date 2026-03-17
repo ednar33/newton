@@ -707,6 +707,8 @@ https://stream.zeno.fm/eyh5yzn3f78uv.mp3
 https://backend.anii.io/api/a/hd.digitalradio.mx:5906/;stream/1.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Radio Hits 92.3 102.1 VER
 https://strcdn.klm99.com:8074/stream/1/;.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Globo 102.7 VER
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPRFMAAC_SC.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", XEFU 103.3 VER
 https://servidor27.brlogic.com:7008/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Radio Romance (XHQO) VER
@@ -737,8 +739,10 @@ https://stream.zenolive.com/52hf40q405quv
 https://a10.asurahosting.com:8330/radio.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Radio Vida RTV
 https://vidacomunicaciones.com:8010/stream
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", La Fe Viva 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", La Fe Viva Radio
 https://stream.zeno.fm/2qr3m73c5qruv.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Adoramos Radio
+https://stream.zeno.fm/w4du8ffmvrutv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Top 2000s
 https://2000.streeemer.com/listen/2000s/radio.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Banda Grupera 
