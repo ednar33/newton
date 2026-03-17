@@ -670,8 +670,10 @@ https://canais.fazoeli.co.za/fontes/smart/24h_simpsons.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Mas Latina 96.5 VER
 https://cast3.my-control-panel.com/proxy/maslatina/stream.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", El Patron 94.5 VER
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", El Patron 104.9 VER
 http://ssc.cnwks.ws:8365/;;.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", El Patron 94.5 VER
+https://securestream.mxradio.xyz/scc/1710785612=.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Amor 91.7 VER
 http://streaming.servicioswebmx.com:8126/stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Trión FM 106.1 VER
