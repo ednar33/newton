@@ -751,3 +751,5 @@ https://stream.zeno.fm/e37m779v2ehvv.mp3
 https://stream.zeno.fm/cdey4pbw2ehvv.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Regional MX
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR49_S01AAC_SC.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Mega Mezclas
+https://sonic-us.streaming-chile.com/
