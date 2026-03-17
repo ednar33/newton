@@ -735,7 +735,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_SC.mp3
 https://s2.mexside.net/8174/;stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Enlace Juvenil
 https://stream.zenolive.com/52hf40q405quv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Musica Cristiana Int
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Musica Cristiana
 https://a10.asurahosting.com:8330/radio.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Radio Vida RTV
 https://vidacomunicaciones.com:8010/stream
@@ -743,6 +743,8 @@ https://vidacomunicaciones.com:8010/stream
 https://stream.zeno.fm/2qr3m73c5qruv.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Adoramos Radio
 https://stream.zeno.fm/w4du8ffmvrutv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Yeshua Radio
+https://ec3.yesstreaming.net:1415/stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Top 2000s
 https://2000.streeemer.com/listen/2000s/radio.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Banda Grupera 
