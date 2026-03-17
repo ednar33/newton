@@ -696,7 +696,7 @@ https://cast3.my-control-panel.com/proxy/xhtz/stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Magia 93.7 VER
 https://cast3.my-control-panel.com/proxy/xekl/stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Sensacion 95.5 VER
-http://ssc.cnwks.ws:8322/;
+http://sss.cnwks.ws:8322/stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Vox FM 102.1 VER
 https://backend.anii.io/api/a/hd.digitalradio.mx:5906/;stream/1.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", XEFU 103.3 VER
