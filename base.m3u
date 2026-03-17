@@ -343,6 +343,9 @@ https://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Claro Sports MX
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", AYM Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", TUDN
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/tudn/mono.m3u8
 
@@ -642,8 +645,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="24-7", Run Time Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="24-7", AYM Sports
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="24-7", Corazón Fast
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="24-7", Clic Fast
@@ -664,8 +665,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="24-7", Imagen TV+ (-1h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="24-7", Los Simpsons (Italiano)
-https://canais.fazoeli.co.za/fontes/smart/24h_simpsons.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Mas Latina 96.5 VER
