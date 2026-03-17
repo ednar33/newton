@@ -680,7 +680,7 @@ http://stream.radiojar.com/a5qpu2en3p8uv.mp3
 https://streaming.servicioswebmx.com/8146/stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", La Ke Buena 93.9 VER
 https://streaming.servicioswebmx.com/8060/;.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Mezkla FM VER
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Mezkla FM 104.7 VER
 https://radio.garden/api/ara/content/listen/AP7sZHQO/channel.mp3?hl=es&1773712377454
 http://198.7.59.28:8104/;stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", XEU La "U" VER
@@ -697,8 +697,12 @@ https://cast3.my-control-panel.com/proxy/xhtz/stream.mp3
 https://cast3.my-control-panel.com/proxy/xekl/stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Sensacion 95.5 VER
 http://sss.cnwks.ws:8322/stream.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Mar FM 99.7 VER
+https://stream.zeno.fm/eyh5yzn3f78uv.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Vox FM 102.1 VER
 https://backend.anii.io/api/a/hd.digitalradio.mx:5906/;stream/1.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Radio Hits 92.3 102.1 VER
+https://strcdn.klm99.com:8074/stream/1/;.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", XEFU 103.3 VER
 https://servidor27.brlogic.com:7008/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Radio Romance (XHQO) VER
