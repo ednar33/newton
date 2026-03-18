@@ -192,7 +192,9 @@ https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/p
 https://amg01433-amg01433c1-canelatv-international-8611.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", TV Publica (ARG)
-https://g4.proy-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+https://stream.claroh.com/tvpublica/playlist.m3u8
+
+##https://g4.proy-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Cali TV (COL)
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
