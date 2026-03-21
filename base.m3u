@@ -635,6 +635,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="24-7", Run Time Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="24-7", Cirque Du Soleil
+https://aka-live1050.delivery.roku.com/c3bf478a-4019-4871-bb12-76bb59eaff62/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="24-7", Corazón Fast
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="24-7", Clic Fast
