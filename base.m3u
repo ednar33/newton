@@ -373,22 +373,22 @@ https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", ESPN Deportes
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+https://cors-proxy.cooks.fyi/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", NBA TV
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/NBATV/index.m3u8
+https://cors-proxy.cooks.fyi/http://origin.thetvapp.to/hls/NBATV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", CBS Sports Network
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/CBSSportsNetworkUSA/index.m3u8
+https://cors-proxy.cooks.fyi/http://origin.thetvapp.to/hls/CBSSportsNetworkUSA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", MLB Network
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/MLBNetwork/index.m3u8
+https://cors-proxy.cooks.fyi/http://origin.thetvapp.to/hls/MLBNetwork/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", NFL Network
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/NFLNetwork/index.m3u8
+https://cors-proxy.cooks.fyi/http://origin.thetvapp.to/hls/NFLNetwork/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", NHL Network
 https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8
@@ -396,11 +396,14 @@ https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playl
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", UFC Network
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Stadium
+https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Univision Eastern
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/UnivisionEast/index.m3u8
+https://cors-proxy.cooks.fyi/http://origin.thetvapp.to/hls/UnivisionEast/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Telemundo Eastern
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/TelemundoEast/index.m3u8
+https://cors-proxy.cooks.fyi/http://origin.thetvapp.to/hls/TelemundoEast/index.m3u8
 
 
 
