@@ -340,9 +340,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Azteca Deportes (Eventos)
+https://mdstrm.com/live-stream-playlist/5ff4650032ebd651c24732c8.m3u8
 https://mdstrm.com/live-stream-playlist/5ff464aaf89edc69bfe55de9.m3u8
-
-##https://mdstrm.com/live-stream-playlist/5ff4650032ebd651c24732c8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
