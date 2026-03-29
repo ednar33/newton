@@ -340,7 +340,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Azteca Deportes (Eventos)
-https://mdstrm.com/live-stream-playlist/5ff4650032ebd651c24732c8.m3u8
+https://tvazteca.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/Df3gDsEJTGGYjpHFt_KJPg/stream/9cab6b8c-939e-49ab-9626-2ee4e1326832:ATL/variant/ae304f4fba40d740813eb46a2ddb79df/bandwidth/1623600.m3u8?es=tvazteca.cdn.mdstrm.com&Expires=1774757414&Key-Pair-Id=APKAICBOAD57CDQK6EDQ&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmF6dGVjYS5jZG4ubWRzdHJtLmNvbS9saXZlLXN0cmVhbS81ZmY0NjRhYWY4OWVkYzY5YmZlNTVkZTkvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NDc1NzQxNH19fV19&Signature=DXx4iGB~VPIMKLgs-dhErOFpVePu8C4vKwIHQb6a-ltj-wMxYhVzxs44EfW8C2~piYYRgDHggYNlpaFabL31T5SSQIMlRNk3dn~ctZv0-~ho~ffiOJtefDJvR12oaVtm0kzGWT6nbitZ8kpYhCaxVWplFey51ju5orFaibCD8hnCDzfQjcyAEGUFVFBNH~U4CR67sQ7b0bV1EfAiY2BjBcwlyNyol3Wy5Uczhr2JFXhJj9uoJQDJFaY-s7Igs1L-~68qaF77gYVaZt9ii8dW1m0RRA~mXa3sMkc~VNlRgAV0kV8ZnA1wTeeuZfmtSYV66nKojgRCJFTtWPig1jio8w__&proto=https&CMCD=cid%3D%225ff464aaf89edc69bfe55de9%22%2Cmtp%3D18800%2Cot%3Dm%2Csf%3Dh%2Csid%3D%228Q6p661F1gWWbk19MMKYtKqh5ipkUKHF%22
+
+##https://mdstrm.com/live-stream-playlist/5ff4650032ebd651c24732c8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
