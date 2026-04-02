@@ -158,6 +158,11 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prem1um", AyE
+http://tecnotv.club/23mar/phpcode/ssiptv.php?c=a08v&token=tecnotokenplustv230516F&f=.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Enlace (Cristiano)
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
