@@ -575,7 +575,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", Foro TV
-https://channel02secure-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8?hdnea=exp=1780587768~acl=/*~hmac=c5b336a9d3b73fdc85427a30b3c2ef534dad762b86b6eaf43bc7af7e1f661ad5
+https://channel02secure-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8?hdntl=exp=1780751820~acl=/*~data=hdntl~hmac=c997351bac5370320a79cf60b0a55df78b6223571ce364a932891e6901b9836a
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", Estrella News
 https://estrellanews-plex.amagi.tv/playlist.m3u8
