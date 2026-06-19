@@ -793,6 +793,8 @@ https://s2.mexside.net/8174/;stream.mp3
 https://stream.zenolive.com/52hf40q405quv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Musica Cristiana
 https://a10.asurahosting.com:8330/radio.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Musica Cristiana 2
+http://das-edge12-live365-dal02.cdnstream.com/a96209
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", Radio Vida RTV
 https://vidacomunicaciones.com:8010/stream
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", La Fe Viva Radio
