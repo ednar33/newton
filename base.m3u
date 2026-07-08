@@ -269,26 +269,17 @@ https://t.freetv.fun/live/telemundo-florida-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemundo Internacional
-https://t.freetv.fun/live/telemundo-internacional.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", TeleNovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Bolivision
 https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", RCN Nuestra Tele
-https://t.freetv.fun/live/nuestra-tele-internacional.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", RCN+ Más
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Hola TV Play
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Film & Co.
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", CANAL 19 - Megavision El Salvador
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
@@ -299,14 +290,8 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Oromar TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telecentro (Ven)
-https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Canal 5 del Pueblo
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Naturaleza Salvaje
-https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Latin Zone (USA) 
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
