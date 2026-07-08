@@ -355,6 +355,9 @@ https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Mundia1 F1FA 2O26 (DS_2)
 http://liketv.pro:80/live/diegos2024/Coly2413/132.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Mundia1 F1FA 2O26 (Sky)
+https://t.freetv.fun/live/sky-sports-football-50fps.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Futbol Network
 https://59d39900ebfb8.streamlock.net:443/8312/8312/playlist.m3u8
 
@@ -655,6 +658,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16333
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", AMC en Español
 https://amc-amcespanol-1-us.tablo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Cine Sony
+https://t.freetv.fun/live/cine-sony.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Cine Estrella
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
