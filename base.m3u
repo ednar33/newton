@@ -90,6 +90,9 @@ https://5f1af61612fb5.streamlock.net:443/tv42/videotv42/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/tv43/videotv43/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/deportes-02.png" group-title="⬬ Nacionales 🇲🇽", 4.4 | Guanajuato
+https://5ca3e84a76d30.streamlock.net/tv44gto/smil:tv44gto.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="⬬ Nacionales 🇲🇽", TV UNAM
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w869437634_DVR.m3u8
 
