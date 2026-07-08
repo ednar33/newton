@@ -156,9 +156,6 @@ https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://umtv.mx/uploads/images/img_social_1759341466.png" group-title="⬬ Nacionales 🇲🇽", UMTV | Montemorelos
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYMjHi5mZszu1TMT0OQ1LXjDgOIHyJU-AbLg&s" group-title="⬬ Nacionales 🇲🇽", Aprende+
-https://stream.aprende.gob.mx/live/hls/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://ilce.edu.mx/images/logo_ilce_meta.png" group-title="⬬ Nacionales 🇲🇽", ILCE
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/.m3u8
 
