@@ -204,22 +204,31 @@ https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", FreeTV Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16200
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", FreeTV Banda 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16465
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", FreeTV Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16198
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", FreeTV Estelar
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16197
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", FreeTV Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16196
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", FreeTV Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16370
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", FreeTV Live
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16195
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", FreeTV Sureño
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16201
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", FreeTV Saber Mas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16474
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", tve (ESP)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
