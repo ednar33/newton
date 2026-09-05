@@ -481,7 +481,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", Foro TV
-https://channel02secure-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8?hdntl=exp=1780751820~acl=/*~data=hdntl~hmac=c997351bac5370320a79cf60b0a55df78b6223571ce364a932891e6901b9836a
+https://channel02secure-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8?hdnea=exp=1788642185~acl=/*~hmac=af458daf18e38d2896b18c6b0628c81b941d045ac8310e1007ca6473efa8f3cf
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", Estrella News
 https://estrellanews-plex.amagi.tv/playlist.m3u8
@@ -495,14 +495,8 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", RTVE 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", N+
-https://channel02secure-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8?hdnea=exp=1780587768~acl=/*~hmac=c5b336a9d3b73fdc85427a30b3c2ef534dad762b86b6eaf43bc7af7e1f661ad5
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", N+ GDL
-https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", N+ MTY
-https://channel09-onlymex.akamaized.net/hls/live/2094418/event01/index.m3u8
+https://channel08secure-notusa.akamaized.net/hls/live/2037034-b/event01/index.m3u8?hdnea=exp=1788642447~acl=/*~hmac=c67ff2bf56e49e72b91f1f20f4efdd0be684ad179a9665696c47f988da361e5d
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", Telediario Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
@@ -525,8 +519,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", CNN Español (Fast)
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", Noticias Telemundo Ahora
-https://d3fs8vk5kl4cwc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qeuu0ja680vad/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US3000005RS
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", PopCorn Central
