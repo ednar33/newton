@@ -385,17 +385,13 @@ https://amg00658-amg00658c99-canelatv-international-7218.playouts.now.amagi.tv/p
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Novelas", Novelas | Mas Pasiones
 https://amg00658-amg00658c93-canelatv-international-6082.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-todonovelasta-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Novelas", Novelas | Pasion Brasileña
-https://amg00658-amg00658c107-canelatv-international-7981.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Novelas", Novelas | Sony Novelas
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+https://spt-sonyonenovelas-1-mx.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Novelas", Novelas | Novelisima 2
 https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Novelas", Novelas | Stormcast 
-https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", Baby Shark 
