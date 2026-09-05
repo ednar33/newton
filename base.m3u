@@ -312,8 +312,17 @@ https://la18hd.su/vivo/canal.php?stream=espn3mx
 https://la18hd.su/vivo/canal.php?stream=espn4mx
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Fox Sports 
 https://la18hd.su/vivo/canal.php?stream=foxdeportes
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Fox Sports Premium
+https://rojadirectastream.net/ver/fox-sports-premium.php
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", TUDN MEX
 https://la18hd.su/vivo/canal.php?stream=tudn
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", D Sports (Arg)
+https://streamx061.sbs/global1.php?channel=dsports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", D Sports 2 (Arg)
+https://streamx061.sbs/global1.php?channel=dsports2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", D Sports + (Arg)
+https://streamx061.sbs/global1.php?channel=dsportsplus
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", TyC Sports
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
