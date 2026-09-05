@@ -313,23 +313,6 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Mundia1 F1FA 2O26 (BR)
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Mundia1 F1FA 2O26 (BR_2)
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Mundia1 F1FA 2O26 (EC)
-https://tv3ecuador.site/hls/stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Mundia1 F1FA 2O26 (DS_1)
-https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Mundia1 F1FA 2O26 (DS_2)
-http://liketv.pro:80/live/diegos2024/Coly2413/132.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Mundia1 F1FA 2O26 (Sky)
-https://t.freetv.fun/live/sky-sports-football-50fps.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Futbol Network
 https://59d39900ebfb8.streamlock.net:443/8312/8312/playlist.m3u8
@@ -352,6 +335,23 @@ https://mdstrm.com/live-stream-playlist/5ff464aaf89edc69bfe55de9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Espn 1 MX
+https://la18hd.su/vivo/canal.php?stream=espnmx
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Espn 2 MX
+https://la18hd.su/vivo/canal.php?stream=espn2mx
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Espn 3 MX
+https://la18hd.su/vivo/canal.php?stream=espn3mx
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Espn 4 MX
+https://la18hd.su/vivo/canal.php?stream=espn4mx
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Fox Sports 1 MX
+https://la18hd.su/vivo/canal.php?stream=foxdeportes
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Fox Sports 2 MX
+https://la12hd.com/vivo/canales.php?stream=foxsports2mx
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Fox Sports 3 MX
+https://la14hd.com/vivo/canales.php?stream=foxsports3mx
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", TUDN MEX
+https://la18hd.su/vivo/canal.php?stream=tudn
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", TyC Sports
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
@@ -661,6 +661,36 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", The Big Channel
 https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Accion total
+https://live20.bozztv.com/giatvplayout7/giatv-209634/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Cine Family
+https://live20.bozztv.com/giatvplayout7/giatv-209633/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Extrema Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Marka tv
+https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Bayres tv
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Vision tv
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Aurora Films
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Cine heroes
+https://183.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Megacine
+https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
+
+
+
+
 
 
 
@@ -706,6 +736,97 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="24-7", Imagen TV+ (-1h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Disney Channel
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disneychannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Disney Jr.
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney_jr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Nickelodeon
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nick.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Nick  JR.
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nick_jr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", History
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/History.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", H2
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/History2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Nat Geo
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/NatGeo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", A&E
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/aye.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", AXN
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Cinecanal
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinecanal.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Cinemax
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", DHE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/DHE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", FX
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fx.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Paramount
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/paramount.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Sony
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/sonychannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Sony Movies
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/sonymovies.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Space
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Star Channel
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Studio Universal
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/studiouniversal/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", TNT
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tnt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Universal
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Golden
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/golden.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", HBO
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", HBO2
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", HBO+
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hboplus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", HBO Family
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Family/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Telenovelas
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TL_Novelas.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Telemundo Int
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/telemundo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Univision
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Univision.stream/playlist.m3u8
+
 
 
 
@@ -812,4 +933,3 @@ https://stream.zeno.fm/e37m779v2ehvv.mp3
 https://stream.zeno.fm/cdey4pbw2ehvv.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Radio", 24/7 Regional MX
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR49_S01AAC_SC.mp3
-
