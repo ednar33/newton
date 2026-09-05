@@ -7,11 +7,6 @@ TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO.
 #EXTINF:-1 tvg-logo="https://wp.logos-download.com/wp-content/uploads/2019/01/Las_Estrellas_Logo-700x638.png" group-title="⬬ Nacionales 🇲🇽", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-***EXTINF:-1 tvg-logo="https://wp.logos-download.com/wp-content/uploads/2019/01/Las_Estrellas_Logo-700x638.png" group-title="⬬ Nacionales 🇲🇽", Las Estrellas LATAM
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=421bf41e7de0f9869aa13aa34200bb75:4b3dfb3e7fb2b65f607ee4290ab74283
-https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESTRELLAS_HD)/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_a%2B_%28canal%29.svg" group-title="⬬ Nacionales 🇲🇽", a+ 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
@@ -169,7 +164,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 https://live.gideo.video:443/americateve2/HD720/HD720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Canal 57 (EU)
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/playlist.m3u8
+https://stream-167790.castr.net/6189746bccf0424c112f5476/live_109148e0970a11f1ad071d31717a2cac/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Canela TV
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist.m3u8
