@@ -312,12 +312,20 @@ https://la18hd.su/vivo/canal.php?stream=espn3mx
 https://la18hd.su/vivo/canal.php?stream=espn4mx
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Espn Deportes
 https://la18hd.su/vivo/canal.php?stream=espndeportes
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Fox One
+https://streamxhd.com/live1.php?stream=foxone
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Fox Sports 
 https://la18hd.su/vivo/canal.php?stream=foxdeportes
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Fox Sports Premium
 https://rojadirectastream.net/ver/fox-sports-premium.php
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", TUDN MEX
 https://la18hd.su/vivo/canal.php?stream=tudn
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", TUDN USA
+https://streamtp-golden1.click/global1.php?stream=tudn_usa
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", VIX (Eventos)
+https://streamxhd.com/live1.php?stream=vix1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Unimas
+https://la18hd.su/vivo/canales.php?stream=unimas
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Universo
 https://la18hd.su/vivo/canal.php?stream=universo
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", D Sports (Arg)
@@ -336,6 +344,12 @@ https://la18hd.su/vivo/canal.php?stream=disney3
 https://la18hd.su/vivo/canal.php?stream=disney4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Ðisn€y+ 5 (Eventos)
 https://la18hd.su/vivo/canal.php?stream=disney5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Ðisn€y+ 6 (Eventos)
+https://la18hd.su/vivo/canal.php?stream=disney6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Ðisn€y+ 7 (Eventos)
+https://la18hd.su/vivo/canal.php?stream=disney7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Ðisn€y+ 8 (Eventos)
+https://la18hd.su/vivo/canal.php?stream=disney8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", TyC Sports
