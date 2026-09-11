@@ -351,6 +351,9 @@ https://la18hd.su/vivo/canal.php?stream=disney7
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Ðisn€y+ 8 (Eventos)
 https://la18hd.su/vivo/canal.php?stream=disney8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Movistar La Liga
+https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76cab42/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhYjQyOjE3ODkwOTUwNzYyNjk6Y2RubGl2ZXR2LnR2OjI5YjY3ODViZDQzNWFjMDcuMmVjNTkwYzZmMDRiNGZhN2U3ODEyOTIwNjk3YjE1MDQ0ZmJhNTFjM2NiMzQyYTRlZmEyZTcyNTAwZjUwOTE4NQ
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", TyC Sports
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
