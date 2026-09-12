@@ -250,6 +250,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", TeleNovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", TVN Chile
+https://sktv-forwarders.7m.pl/get.php?x=TVN
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", RCN+ Más
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
