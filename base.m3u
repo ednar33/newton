@@ -22,6 +22,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 ***EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Azteca72024.png" group-title="⬬ Nacionales 🇲🇽", Azteca 7 
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
+***EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Azteca72024.png" group-title="⬬ Nacionales 🇲🇽", Canal 5
+https://latamplay1.click/channel/canal5.html
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="⬬ Nacionales 🇲🇽", Imagen TV (-1 h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
@@ -700,6 +703,9 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/aye.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", AXN
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Cartoon Network
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cartoonnetwork.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Cinecanal
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinecanal.stream/playlist.m3u8
