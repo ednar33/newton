@@ -430,18 +430,6 @@ https://la18hd.su/vivo/canal.php?stream=disney8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Novelas", Novelas | Pasiones Legendarias
 https://amg00658-amg00658c49-canelatv-international-7982.playouts.now.amagi.tv/playlist.m3u8
 
@@ -707,28 +695,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Disney Channel
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disneychannel.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Disney Jr.
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney_jr.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Nickelodeon
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nick.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Nick  JR.
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nick_jr.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", History
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/History.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", H2
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/History2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Nat Geo
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/NatGeo.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", A&E
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/aye.stream/playlist.m3u8
 
@@ -744,8 +710,44 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", DHE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/DHE/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Disney Channel
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disneychannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Disney Jr.
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney_jr.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", FX
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fx.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Golden
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/golden.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", HBO
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", HBO-2
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", HBO+
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hboplus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", HBO Family
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Family/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", History
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/History.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", H2
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/History2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Nat Geo
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/NatGeo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Nickelodeon
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nick.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Nick  JR.
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nick_jr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Paramount
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/paramount.stream/playlist.m3u8
@@ -765,32 +767,17 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Studio Universal
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/studiouniversal/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", TNT
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tnt/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Universal
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universal/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Golden
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/golden.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", HBO
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", HBO2
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", HBO+
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hboplus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", HBO Family
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Family/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Telenovelas
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TL_Novelas.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Telemundo Int
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/telemundo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", TNT
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tnt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Universal
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV Plus", Univision
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Univision.stream/playlist.m3u8
