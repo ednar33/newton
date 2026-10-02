@@ -19,11 +19,11 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Azteca_logo.png" group-title="⬬ Nacionales 🇲🇽", Azteca Uno -1h 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 
-***EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Azteca72024.png" group-title="⬬ Nacionales 🇲🇽", Azteca 7 
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Azteca72024.png" group-title="⬬ Nacionales 🇲🇽", Azteca 7 
+https://la18hd.su/vivo/canal.php?stream=azteca7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Azteca72024.png" group-title="⬬ Nacionales 🇲🇽", Canal 5
-https://latamplay1.click/channel/canal5.html
+https://la18hd.su/vivo/canal.php?stream=canal5
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="⬬ Nacionales 🇲🇽", Imagen TV (-1 h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
