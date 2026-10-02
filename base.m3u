@@ -19,7 +19,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Azteca_logo.png" group-title="⬬ Nacionales 🇲🇽", Azteca Uno -1h 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Azteca72024.png" group-title="⬬ Nacionales 🇲🇽", Azteca 7 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Azteca72024.png" group-title="⬬ Nacionales 🇲🇽", Azteca 7 
 https://la18hd.su/vivo/canal.php?stream=azteca7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canal_5_Mexico_logo_2014.svg" group-title="⬬ Nacionales 🇲🇽", Canal 5
