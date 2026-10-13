@@ -22,6 +22,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Azteca72024.png" group-title="⬬ Nacionales 🇲🇽", Azteca 7 
 https://la18hd.su/vivo/canal.php?stream=azteca7
 
+#EXTINF:-1 tvg-chno="7" tvg-id="I234.102406.schedulesdirect.org" tvg-name="" tvg-logo="https://imgur.com/UtFXjIn.png"  group-title="⬬ Nacionales 🇲🇽", Azteca 7 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5717e2dda7fc0fead005059e5536b6c:04243a2f2c5237efd969213e36f1ec77
+https://dish.akamaized.net/Content/DASH/Live/channel(azteca7hd)/variant.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canal_5_Mexico_logo_2014.svg" group-title="⬬ Nacionales 🇲🇽", Canal 5
 https://la18hd.su/vivo/canal.php?stream=canal5
 
