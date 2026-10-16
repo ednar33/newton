@@ -307,12 +307,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Azteca Deportes Network
 https://azt-dep.otteravision.com/azt/dep/dep.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Azteca Deportes (Event 1)
-https://mdstrm.com/live-stream-playlist/5ff4650032ebd651c24732c8.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Azteca Deportes (Event 2)
-https://mdstrm.com/live-stream-playlist/5ff464aaf89edc69bfe55de9.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", beIN Sports XTRA En Español
 https://live-manifest.production-public.tubi.io/live/6cd31e43-d255-4ab4-b065-7f28bd541047/playlist.m3u8
 
@@ -329,12 +323,6 @@ https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(C
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", CombaTV
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", D Sports (Arg)
-https://streamx061.sbs/global1.php?channel=dsports
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", D Sports 2 (Arg)
-https://streamx061.sbs/global1.php?channel=dsports2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", D Sports + (Arg)
-https://streamx061.sbs/global1.php?channel=dsportsplus
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Espn 1 
 https://la18hd.su/vivo/canal.php?stream=espnmx
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Espn 2 
@@ -602,7 +590,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", Foro TV
-https://channel02secure-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8?hdnea=exp=1788642185~acl=/*~hmac=af458daf18e38d2896b18c6b0628c81b941d045ac8310e1007ca6473efa8f3cf
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", Estrella News
 https://estrellanews-plex.amagi.tv/playlist.m3u8
