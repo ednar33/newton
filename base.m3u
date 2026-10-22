@@ -169,7 +169,7 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/.m3u8
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Antena 3
-https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd?output=ts
+https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", América TV (EU)
 https://live.gideo.video:443/americateve2/HD720/HD720.m3u8
