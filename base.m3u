@@ -393,18 +393,11 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 #KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
 
-#EXTINF:-1 tvg-chno="65" tvg-id="TUDNUHDUS." tvg-name="TUDN UHD US" tvg-logo="" group-title="Deportes",TUDN USA
+#EXTINF:-1 tvg-chno="65" tvg-id="TUDNUHDUS." tvg-name="TUDN UHD US" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes",TUDN USA
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TUDN%20UHD%20US&code=&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TUDN%20UHD%20US&code=&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ce10/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZTEwOjE3OTM5ODI0NzQyMzg6Y2RubGl2ZXR2LnR2OjUzOTZiNzE4NzlmOWNkMzcuZTRhYTQ5MDIyY2Y0NDA3YWUwMjFlOWQwMWRiNzllNDI2ZDgyYmU3NWZjNTFkZGMyMDdkZGZjMjY1MDRlODgwMA|x-forwarded-for:109.236.88.82
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb80e1e7d7598eaf98b1dbbe6dc14ee9:103ae55c7948ca1d159d6743619d26c4
-#EXTINF:-1 tvg-id="SKY SPORT LA LIGA FHD" tvg-logo="" group-title="Deportes",SKY SPORT LA LIGA 
-https://zap-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
 
 
