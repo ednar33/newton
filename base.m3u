@@ -299,6 +299,13 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Star Hitz
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 
+#EXTINF:-1 tvg-chno="115" tvg-id="UnivisionCA." tvg-name="Univision CA" tvg-logo="" group-title="Live TV - ",Univision CA
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Univision%20CA&code=&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Univision%20CA&code=&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ec02/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlYzAyOjE3OTM5ODI0OTUwNzE6Y2RubGl2ZXR2LnR2OjU0N2VkZTk1MzMwOWIyNTkuMjcyMzFhNjIzYjc4NTQzZDQ3NzFkYmFlYmVhYWZiMzE4ZTg2ZGQ5NDRlNzgyNzlmNjFlNjNlN2EzMmU3ZTU2OQ|x-forwarded-for:109.236.88.82
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", AYM Sports
@@ -379,6 +386,13 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
+
+#EXTINF:-1 tvg-chno="65" tvg-id="TUDNUHDUS." tvg-name="TUDN UHD US" tvg-logo="" group-title="Live TV - ",TUDN US
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TUDN%20UHD%20US&code=&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TUDN%20UHD%20US&code=&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ce10/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZTEwOjE3OTM5ODI0NzQyMzg6Y2RubGl2ZXR2LnR2OjUzOTZiNzE4NzlmOWNkMzcuZTRhYTQ5MDIyY2Y0NDA3YWUwMjFlOWQwMWRiNzllNDI2ZDgyYmU3NWZjNTFkZGMyMDdkZGZjMjY1MDRlODgwMA|x-forwarded-for:109.236.88.82
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", TUDN MEX
 https://la18hd.su/vivo/canal.php?stream=tudn
